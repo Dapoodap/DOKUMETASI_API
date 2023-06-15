@@ -1,3 +1,5 @@
+# CC Architecture 
+![local scope](art.png)
 # API Documentation / Spec
 # 1. BATIK
 ## Get All Batik
